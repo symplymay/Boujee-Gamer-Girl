@@ -48,6 +48,10 @@ Boujee Gamer Girl uses **Hedera Hashgraph** to:
 - **Deployment**: Demo video & slides for hackathon  
 
 ## 🎥 Demo [https://www.loom.com/share/4fd8fb538a194b3ba20d772ff7b70316]  
+ 
+## Certification
+ 
+[View My Certification (PDF)](https://github.com/symplymay/Boujee-Gamer-Girl/blob/main/4cbf93ee-b21c-425c-869f-7c53e0f97b2c%20(1).pdf# Boujee Gamer Girl) *(This certification confirms completion of relevant skills or training for the Boujee Gamer Girl project.)*
 
 
 ##  How To Run Locally
